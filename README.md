@@ -9,11 +9,9 @@
 
 ## 🛡️ Cybersécurité
 
-- 🏆 **TryHackMe** top 6% mondial — handle `CedriCode`
-  - Parcours SOC Level 1 complété
+- 🏆 **TryHackMe** top 5% mondial — handle `CedriCode`
+  - Parcours Pre Security complété, Cyber Security 101 en cours
   - Malware analysis, forensics mémoire, IDS/Snort, Burp Suite, SQLMap
-- 📢 **Disclosure responsable** — CVE-2026-22778 (France Travail / vLLM, CVSS 9.8)
-- 📢 **Disclosure responsable** — Google Gemini (prompt injection)
 
 ---
 
@@ -38,7 +36,7 @@
 ## 📚 Formation en cours
 
 - 🌐 **freeCodeCamp** — Responsive Web Design (HTML/CSS → React)
-- 🔐 **TryHackMe** — SOC Level 1 path (actif)
+- 🔐 **TryHackMe** — cyber security 101 (actif)
 - 📖 **CompTIA Security+** — en préparation
 
 ---
