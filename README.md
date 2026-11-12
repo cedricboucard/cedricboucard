@@ -29,6 +29,13 @@ Système multi-agents qui donne une personnalité au CPU, au GPU et à la RAM.
 - Mode chat interactif pour interroger directement chaque composant
 - `Python` `Ollama` `psutil` `pynvml` · Licence MIT
 
+### 🧠 [mindspace](https://github.com/cedricboucard/mindspace)
+Outil CLI d'aide à la décision : un conseil de trois agents IA délibère sur vos dilemmes.
+- **J.A.R.V.I.S.** (analyse logique) et **ULTRON** (critique des failles et coûts cachés) délibèrent en parallèle, puis **VISION** rend un verdict actionnable
+- Mémoire persistante en JSON, réinjectée comme « jurisprudence » dans les délibérations suivantes
+- Compatible avec toute API de type OpenAI, Ollama en local par défaut
+- `Python` `asyncio` `OpenAI SDK` `Ollama` `Rich`
+
 ### Autres réalisations
 | Projet | Description |
 |---|---|
