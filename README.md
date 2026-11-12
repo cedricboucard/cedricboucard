@@ -1,22 +1,27 @@
 ## Hi there 👋
-# 👋 Cedric Boucard — IT Support & Cybersécurité
+# Cedric Boucard — Support IT & Cybersécurité
 
-🎯 En recherche d'un poste de **Technicien Support N1/N2 ou SOC Analyst** à Toulouse  
-🎓 **BTS SNIR** — Systèmes Numériques, Informatique et Réseaux  
-📍 Toulouse, France
+**Technicien Support N1/N2 · SOC Analyst junior**  
+En recherche active d’un poste à **Toulouse** et environs.  
+Diplômé **BTS SNIR** (Systèmes Numériques, Informatique et Réseaux).
 
----
-
-## 🛡️ Cybersécurité
-
-- 🏆 **TryHackMe** top 5% mondial — handle `CedriCode`
-  - Parcours Pre Security complété, Cyber Security 101 en cours
-  - Malware analysis, forensics mémoire, IDS/Snort, Burp Suite, SQLMap
+Je construis des outils concrets autour du support, de l’observabilité et de la cybersécurité, avec un fort accent sur l’**IA locale** (Ollama + Piper TTS) pour rester souverain et hors-ligne.
 
 ---
 
-## 💻 Projets
+## Projets phares
 
+### [helpdesk-simulator](https://github.com/cedricboucard/helpdesk-simulator)
+Simulateur vocal d’appels support N1/N2 en CLI.  
+Des utilisateurs pilotés par **Llama 3.2 (Ollama)** dialoguent en temps réel et sont doublés par **Piper TTS**.  
+Scénarios progressifs (mot de passe, imprimante, lecteur réseau, SQL Server, ERP verrouillé, mode chaos) pour travailler diagnostic méthodique (modèle OSI, services, droits) et soft skills (gestion du stress, reformulation, absence de jargon).
+
+### [sentinelle-watchdog](https://github.com/cedricboucard/sentinelle-watchdog)
+Agent de monitoring Linux + Docker avec diagnostic de cause racine par **IA locale**.  
+Surveille CPU/RAM/disque et état des conteneurs, envoie les logs pertinents à **Ollama (Llama 3.2)**, génère un rapport vocal instantané via **Piper TTS** et peut notifier Discord.  
+100 % hors-ligne, anti-spam par cooldown, prêt pour systemd.
+
+### Autres réalisations
 | Projet | Description |
 |--------|-------------|
 | [SIEM Severity Legend](https://cedricboucard.github.io/SIEM-Severity-Legend/) | Référentiel visuel de sévérité des incidents SOC |
@@ -24,38 +29,31 @@
 
 ---
 
-## 🧰 Stack & Environnement
+## Compétences & environnement
 
-- 🐧 Linux daily driver — Nobara Linux
-- 🖥️ Homelab KVM/QEMU — Metasploitable2, pentest labs
-- 💻 HTML / CSS / bases Python
-- 🔧 Wireshark, Nmap, Hydra, Volatility 3, REMnux
-
----
-
-## 📚 Formation en cours
-
-- 🌐 **freeCodeCamp** — Responsive Web Design (HTML/CSS → React)
-- 🔐 **TryHackMe** — cyber security 101 (actif)
-- 📖 **CompTIA Security+** — en préparation
+- **Support & méthodes** : diagnostic N1/N2, ITIL (entonnoir, clôture), gestion d’utilisateurs, documentation
+- **Systèmes & réseau** : Linux (daily driver Nobara), Windows, modèle OSI, services, permissions, SMB, DHCP
+- **Cybersécurité** : TryHackMe (top 5 % mondial — `CedriCode`), Pre-Security terminé, Cyber Security 101 en cours  
+  Outils : Wireshark, Nmap, Volatility 3, Burp Suite, Snort, Hydra, REMnux
+- **Développement** : Python (scripts CLI, automatisation, API Docker), HTML/CSS, bases React (freeCodeCamp)
+- **IA locale** : Ollama (Llama 3.2), Piper TTS, intégration offline dans des outils opérationnels
+- **Homelab** : KVM/QEMU, labs de pentest (Metasploitable2), conteneurs Docker
 
 ---
 
-## 📬 Contact
+## Formation & progression
+
+- **BTS SNIR** — Systèmes Numériques, Informatique et Réseaux
+- **freeCodeCamp** — Responsive Web Design (HTML/CSS → React)
+- **TryHackMe** — parcours actif, handle `CedriCode`
+- **CompTIA Security+** — en préparation
+
+---
+
+## Contact
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-CedriCode-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/CedriCode)
 [![GitHub](https://img.shields.io/badge/GitHub-cedricboucard-181717?style=flat&logo=github)](https://github.com/cedricboucard)
-<!--
-**cedricboucard/cedricboucard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Disponible pour un poste **Support N1/N2 ou SOC Analyst** à Toulouse.  
+N’hésite pas à regarder les dépôts ou à me contacter.
