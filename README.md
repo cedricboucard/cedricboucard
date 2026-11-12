@@ -2,6 +2,8 @@
 
 **Technicien support N1/N2 · orientation SOC Analyst · Toulouse**
 
+🌐 **Portfolio : [cedricboucard.github.io](https://cedricboucard.github.io)** — démos vidéo de mes outils en action
+
 Deux ans de support applicatif en production, un poste Linux au quotidien et des outils Python qui mêlent supervision système, IA locale et sécurité. J'apprends en construisant, avec un parti pris : **IA 100 % locale** (Ollama + Piper TTS), sans dépendance au cloud.
 
 ---
@@ -87,6 +89,7 @@ Support utilisateurs N1/N2 sur des logiciels métier : diagnostic, qualification
 
 ## 📫 Contact
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-cedricboucard.github.io-2fd18b?style=flat&logo=googlechrome&logoColor=white)](https://cedricboucard.github.io)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-CedriCode-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/CedriCode)
 [![GitHub](https://img.shields.io/badge/GitHub-cedricboucard-181717?style=flat&logo=github)](https://github.com/cedricboucard)
 
