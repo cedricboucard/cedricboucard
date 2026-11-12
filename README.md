@@ -39,9 +39,10 @@ Système multi-agents qui donne une personnalité au CPU, au GPU et à la RAM.
 
 ## 🔐 Cybersécurité
 
+- **Certification** — Pre Security (SEC0) Certificate, TryHackMe (juin 2026)
 - **TryHackMe** — top 5 % mondial (`CedriCode`), Pre-Security et Cyber Security 101 terminés
 - **Divulgation responsable** — CVE-2026-22778 (vLLM, CVSS 9.8) ; signalement d'une injection de prompt sur Gemini
-- **Outils pratiqués** — Wireshark, Nmap, Hydra, Metasploit, SQLMap, Burp Suite, Snort, Volatility 3, FlareVM, REMnux
+- **Outils pratiqués** — Burp Suite, Hydra, John the Ripper, Dirbuster, Wireshark, Nmap, Metasploit, SQLMap, Snort, Volatility 3, FlareVM, REMnux
 - **Lab** — Kali + Metasploitable2 pour l'exploitation et l'analyse en environnement isolé
 
 ---
