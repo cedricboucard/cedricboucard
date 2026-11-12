@@ -32,7 +32,7 @@ Surveille CPU/RAM/disque et état des conteneurs, envoie les logs pertinents à 
 ## Compétences & environnement
 
 - **Support & méthodes** : diagnostic N1/N2, ITIL (entonnoir, clôture), gestion d’utilisateurs, documentation
-- **Systèmes & réseau** : Linux (daily driver Nobara), Windows, modèle OSI, services, permissions, SMB, DHCP
+- **Systèmes & réseau** : Linux (daily driver Ubuntu), Windows, modèle OSI, services, permissions, SMB, DHCP
 - **Cybersécurité** : TryHackMe (top 5 % mondial — `CedriCode`), Pre-Security terminé, Cyber Security 101 en cours  
   Outils : Wireshark, Nmap, Volatility 3, Burp Suite, Snort, Hydra, REMnux
 - **Développement** : Python (scripts CLI, automatisation, API Docker), HTML/CSS, bases React (freeCodeCamp)
@@ -44,6 +44,7 @@ Surveille CPU/RAM/disque et état des conteneurs, envoie les logs pertinents à 
 ## Formation & progression
 
 - **BTS SNIR** — Systèmes Numériques, Informatique et Réseaux
+- **LFCA** (Linux Foundation Certified IT Associate) — préparation via Coursera
 - **freeCodeCamp** — Responsive Web Design (HTML/CSS → React)
 - **TryHackMe** — parcours actif, handle `CedriCode`
 - **CompTIA Security+** — en préparation
