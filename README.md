@@ -37,7 +37,7 @@ Surveille CPU/RAM/disque et état des conteneurs, envoie les logs pertinents à 
   Outils : Wireshark, Nmap, Volatility 3, Burp Suite, Snort, Hydra, REMnux
 - **Développement** : Python (scripts CLI, automatisation, API Docker), HTML/CSS, bases React (freeCodeCamp)
 - **IA locale** : Ollama (Llama 3.2), Piper TTS, intégration offline dans des outils opérationnels
-- **Homelab** : KVM/QEMU, labs de pentest (Metasploitable2), conteneurs Docker
+- **Homelab** : VirtualBox, labs de pentest (Metasploitable2), conteneurs Docker
 
 ---
 
